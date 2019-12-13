@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/ext_mdeolivei/Pessoal-Projecs/postgres"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
